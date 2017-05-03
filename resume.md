@@ -1,5 +1,10 @@
+# Brandon In
+Software Engineer
+======
+
+
 Education
-=========
+======
 
 Coding Dojo
 -----------
